@@ -19,6 +19,9 @@ ls
 python -m pip install -r requirements.txt  
 
 **Execute Command Script**  
+> **Note:**  
+Before use the script on the termux you must start the bot and visit the ads manually one by one  
+
 -  [@adsgram_btc_bot](https://t.me/adsgram_btc_bot?start=93aa7fbbc8f3)  
 > python btcads.py +[63xxx international phone code joined at bot]
 -  [@t.me/adsgram_ltc_bot](https://t.me/adsgram_ltc_bot?start=77c97c1bfbd9)
